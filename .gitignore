@@ -1,0 +1,16 @@
+# macOS files
+.DS_Store
+
+# Compiled programs
+main
+co2calculator
+co2test
+co2testest
+alexajokes
+bookmanager
+a.out
+*.exe
+*.o
+
+# Debug files
+*.dSYM/
